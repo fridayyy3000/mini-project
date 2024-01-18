@@ -1,1 +1,1 @@
-# mini-project
+# Image recognition
